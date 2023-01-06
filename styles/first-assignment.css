@@ -96,3 +96,33 @@
     line-height: 26px;
     color: #444343;
 }
+/* My Plan Section  */
+main{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.myplans{
+margin-top: 130px;
+
+}
+.section-titel{
+    margin-top: 1000px;
+text-align: center;
+font-weight: 700;
+font-size: 40px;
+}
+.section-info-container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.info-titel{
+    font-weight: 700;
+font-size: 20px;
+color: #151414;
+}
+.info-description{
+    font-weight: 500;
+    font-size: 18px;
+    color: #737272;
+}
