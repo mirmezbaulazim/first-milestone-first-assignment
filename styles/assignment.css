@@ -5,7 +5,6 @@
 /* Banner Section  */
 body{
     background-image: url(../images/banner/banner2.png);
-    background-repeat: no-repeat;
 }
 header{
     display: flex;
