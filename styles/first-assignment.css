@@ -49,13 +49,13 @@
     height: 64px;
     left: 1210px;
     top: 578px;
-    color: #FFFFFF;
+    color: #000000;
     font-weight: 700;
     font-size: 20px;
     border: 0;
     height: 64px;
     border-radius: 10px;
-    background: #fd6e0a;
+    background: #1f3ce2;
     text-align: center;
 }
 
@@ -75,54 +75,125 @@
     left: 862px;
     top: 1178px;
 }
-.banner2-titel{
+
+.banner2-titel {
     font-style: normal;
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
     color: #151414;
 }
-.banner2-description{
+
+.banner2-description {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
     color: #444343;
 }
-.banner2-item{
+
+.banner2-item {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
     color: #444343;
 }
+
 /* My Plan Section  */
-main{
+main {
     max-width: 1200px;
     margin: 0 auto;
 }
-.myplans{
-margin-top: 130px;
+
+.myplans {
+    margin-top: 130px;
 
 }
-.section-titel{
+
+.section-titel {
     margin-top: 1000px;
-text-align: center;
-font-weight: 700;
-font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
 }
-.section-info-container{
+
+.section-info-container {
     display: flex;
     justify-content: space-around;
     text-align: center;
 }
-.info-titel{
+
+.info-titel {
     font-weight: 700;
-font-size: 20px;
-color: #151414;
+    font-size: 20px;
+    color: #151414;
 }
-.info-description{
+
+.info-description {
     font-weight: 500;
     font-size: 18px;
     color: #737272;
+}
+
+/* Contact Section  */
+.contact-section {
+    background-image: url(/images/gradient1.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    padding: 40px;
+}
+
+.contact-titel {
+    text-align: left;
+    font-weight: 900;
+    font-size: 40px;
+    color: #000000;
+    text-align: left;
+    text-shadow: #444343;
+
+
+}
+
+.contact-btn {
+    color: #000000;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    width: 120px;
+    height: 64px;
+    border-radius: 10px;
+    background: #f5f3f1;
+    text-align: center;
+}
+/* Future Section  */
+.future{
+    display: flex;
+    gap: 100px;
+    background-color: #474242;
+    padding: 130px 200px;
+}
+.future .future-text{
+    text-align: left;   
+}
+li{
+    list-style: none;
+}
+.future-btn{
+    color: #000000;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    height: 64px;
+    border-radius: 10px;
+    background: #1f3ce2;
+    text-align: center;
+}
+.future-data{
+    margin-bottom: 24px;
+    border: 0;
+    width: 250px;
+    padding-left:30px;
+    height: 64px;
+    border-radius: 10px;
 }
