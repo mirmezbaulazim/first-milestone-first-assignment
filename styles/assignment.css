@@ -199,3 +199,7 @@ color: #f7f4f4;
     height: 64px;
     border-radius: 10px;
 }
+.footer-col{
+    background-color: #151414;
+    margin-top: 100px;
+}
