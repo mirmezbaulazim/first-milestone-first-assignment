@@ -10,7 +10,6 @@ body{
 header{
     display: flex;
 }
-
 .banner-titel {
     position: absolute;
     width: 525px;
@@ -95,6 +94,9 @@ header{
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
+    color: #444343;
+}
+.item-text{
     color: #444343;
 }
 
