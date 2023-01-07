@@ -4,7 +4,7 @@
 
 /* Banner Section  */
 body{
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(../images/banner/banner2.png);
     background-repeat: no-repeat;
 }
 header{
@@ -131,7 +131,7 @@ main {
 
 /* Contact Section  */
 .contact-section {
-    background-image: url(/images/watch.png);
+    background-image: url(../images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 250px;
