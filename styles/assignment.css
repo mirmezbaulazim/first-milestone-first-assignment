@@ -132,11 +132,9 @@ main {
 
 /* Contact Section  */
 .contact-section {
-    background-image: url(../images/watch.png);
+    background-image: url(../images/gradient1.png);
     background-repeat: no-repeat;
-    background-size: cover;
     height: 250px;
-    border-radius: 20px;
     padding: 40px;
 }
 .contact-titel {
